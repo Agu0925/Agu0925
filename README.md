@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agu0925
+- 👋 Hi, I’m @Agustin Ahlers
 - 👀 I’m interested - in Padel, Gaming and Create solutions with code.
 - 🌱 The next steps i think is learning ReactJs and SQL.
 - 💞️ I’m looking to collaborate on ...
