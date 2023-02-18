@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agustin Ahlers
 - 👀 I’m interested - in Padel, Gaming and Create solutions with code.
-- 💪 ReactJS, NodeJS, JS, ElectronJS, Bootstrap, HTML, CSS.
-- 🌱 The next steps i think is learning ReactJs and SQL.
+- 💪 ReactJS, NodeJS, SQL, JS, ElectronJS, Bootstrap, HTML, CSS.
+- 🌱 The next steps i think is learning more ReactJs and English.
 - 💞️ I’m looking to collaborate on any projects for lerning.
 - 📫 How to reach me Mail: AhlerSolutions@hotmail.com
 
